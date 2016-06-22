@@ -1,0 +1,39 @@
+.twitter-follow{
+	font: normal normal normal 11px/18px 'Helvetica Neue',Arial,sans-serif;
+	font-size:13px;
+}
+
+.twitter-follow .btn{
+	height: 28px;
+    padding: 1px 10px 1px 9px;
+    border-radius: 4px;
+    position: relative;
+    font-weight: 500;
+    color: #fff;
+	background-color: #1b95e0;
+    cursor: pointer;
+    box-sizing: border-box;
+	display:inline-block;
+	vertical-align:top;
+    text-decoration: none;
+    outline: 0;
+}
+
+.btn:focus, .btn:hover, .btn:active {
+    background-color: #0c7abf;
+}
+
+.twitter-follow i{
+	top: 4px;
+    width: 18px;
+    height: 18px;
+    position: relative;
+    display: inline-block;
+    background-image: url("twitter-icon.png");
+	background-size:cover;
+}
+
+.btn .label b {
+    font-weight: 500;
+    white-space: nowrap;
+}
