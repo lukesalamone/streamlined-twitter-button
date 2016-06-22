@@ -1,0 +1,18 @@
+#Directories#
+#############
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/build
+/captures
+
+#Annoying files#
+################
+.gradle
+.DS_Store
+*~
+*.swp
+*.idea
+*.iml
+*.class
+error_log
